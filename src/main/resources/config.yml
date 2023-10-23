@@ -1,0 +1,12 @@
+arenaDefaults:
+  radiusStart: 100
+  radiusEnd: 30
+  times: # in seconds
+    matchDuration: 60
+    chestRefill: 30
+    teleportToSpawn: 10
+    borderShrinkStart: 50
+    borderShrinkEnd: 30
+    gracePeriod: 10
+
+arenas:

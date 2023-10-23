@@ -1,0 +1,9 @@
+name: SurvivalGames
+main: com.programotuojes.survival_games.Main
+version: 1.0.0
+api-version: 1.19
+author: Gustas Klevinskas
+
+commands:
+  sg:
+    description: Base Survival Games command.
